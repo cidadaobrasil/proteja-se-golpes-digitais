@@ -13,4 +13,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://esdraaline.github.io/proteja-se-golpes-digitais/sitemap.xml
+Sitemap: https://cidadaobrasil.github.io/proteja-se-golpes-digitais/sitemap.xml
